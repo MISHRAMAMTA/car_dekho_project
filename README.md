@@ -3,7 +3,7 @@
 
 This project predicts the selling price of used cars based on features like brand, model year, fuel type, mileage, and ownership history. The goal is to help buyers and sellers get a fair price estimate before making a deal.
 
-What this project does
+## What this project does
 
 Cleans and prepares the dataset (handles missing values, encodes categories, etc.)
 
@@ -13,11 +13,11 @@ Builds and compares multiple machine learning models
 
 Selects the best-performing model and saves it for reuse
 
-Dataset Info
+## Dataset Info
 
 Each row in the dataset represents a single used car listing, with details like:
 
-Column	Description
+## Column	Description
 
 Car_Name	Vehicle model name
 
@@ -37,12 +37,8 @@ Transmission	Manual / Automatic
 
 Owner	Number of previous owners
 
-Tools & Libraries Used
 
-
-Models Tried
-
-Model	Notes
+##Models Tried
 
 Linear Regression	Works, but not very accurate
 
