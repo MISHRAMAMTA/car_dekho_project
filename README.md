@@ -18,16 +18,25 @@ Dataset Info
 Each row in the dataset represents a single used car listing, with details like:
 
 Column	Description
+
 Car_Name	Vehicle model name
 
 Year	Manufacturing year
+
 Selling_Price	Selling price (Target)
+
 Present_Price	Current showroom price
+
 Kms_Driven	Total kilometers driven
+
 Fuel_Type	Petrol / Diesel / CNG
+
 Seller_Type	Dealer / Individual
+
 Transmission	Manual / Automatic
+
 Owner	Number of previous owners
+
 Tools & Libraries Used
 
 
